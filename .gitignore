@@ -12,4 +12,7 @@ IgnoreLexer.java~
 .gradle
 .DS_Store
 
+Pipfile
+
 /verification
+
